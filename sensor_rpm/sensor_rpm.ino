@@ -1,4 +1,7 @@
-
+/* Leitura da RPM a partir do polo negativo da bobina
+ * 
+ */
+ 
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
